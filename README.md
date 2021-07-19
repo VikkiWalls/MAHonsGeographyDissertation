@@ -1,2 +1,12 @@
 # MAHonsGeographyDissertation
 “Does Geography Determine National Sporting Success?”
+
+This project involved the creation of complex datasets for the various factors such as GDP and Country Size in preparation with comparison of results at the Rio 2016 Olympics. Using a method designed by Ernst Jokl national results were formatted into a points system to allow easy comparison between sports with their different result types (e.g. score vs time). The data was then processed using SPSS Statistics Software in multiple regression models and the results revealed that physical geography had some correlation with national sporting success however national GDP had the greatest influence. Analogous to the UK commitment to increase research & development expenditure to 2.4% of UK GDP.
+
+# Abstract
+
+This study was an investigation into the influence of, and the potential for geographical variables, both human and physical to determine national sporting success through the use of results data from the Rio 2016 Olympic Games.  
+
+It must be noted that national sporting success is an extremely broad subject of investigation, so whilst geography may have influence and general determining factors, there are several micro and macro factors in each athlete’s specific situation. Within the constraints of this study these cannot be tested and may impact overall trends. This study also was restricted in how much sporting data could be included, with selected events from five different sports there was a total of 40 competitions used to build the dataset. To give context, Athletics alone at the Rio Olympics had 47 competitions, had this study included every competition in its selected sports there would have been 132, and the total number of competitions at the games was 306. Additionally, the Rio 2016 Olympics had 207 nations competing (olympiandatabase.com n.d.), however with the sports and events included in this study, only 190 were analysed. 
+
+The results from this study are consistent with other literature on the subject, particularly in that GDP clearly stood out as the variable with the greatest level of influence on national sporting success. Similarly to other studies, other geographical factors such as average temperature appeared to suggest trends linked with the results data; however any statistical influence was significantly lesser than that of GDP and likely mere corelation rather than genuine sway.   
